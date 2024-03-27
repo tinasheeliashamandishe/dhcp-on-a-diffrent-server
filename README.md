@@ -27,7 +27,7 @@ Before DHCP is configured the devices do not have IP address settings yet.<br/>
 <br />
 
 <h4>DHCP Configuration:</h4>
-The DHCP Configuration on the Router 2.<br/>
+The DHCP Configuration on the Router 2.(No excluded IP addresses were set)<br/>
 <img src="https://i.imgur.com/DnjRFva.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
 The DHCP Configuration on the Router 1.<br/>
 <img src="https://i.imgur.com/zQaCxPf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br/>
